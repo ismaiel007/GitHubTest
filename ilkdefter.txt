@@ -1,2 +1,3 @@
 welcome to git hope this cource well be very help full for all of you
 the subject of this lesson is gitignore
+yeni guncelleme
